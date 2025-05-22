@@ -25,7 +25,7 @@ Detail-oriented and versatile **Software Engineer** with a strong foundation in 
 
 
 ### 📫 How to Reach Me
-- 📧 Email: gtolentino@yondu.com *(or your preferred email)*
+- 📧 Email: tolentinog945@gmail.com
 - 🌐 LinkedIn: [linkedin.com/in/glenn-tolentino](https://www.linkedin.com/in/glenn-tolentino/)
 - 💼 Portfolio/Website: *(add if available)*
 
