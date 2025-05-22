@@ -18,27 +18,16 @@ Detail-oriented and versatile **Software Engineer** with a strong foundation in 
 
 ### 🌱 I’m Currently Learning
 - Machine Learning & Data Pipelines
-- Mobile development with Flutter
+- Mobile development with Flutter/React Native
 - Serverless applications on AWS and GCP
 
 ---
 
-### 💞️ I’m Looking to Collaborate On
-- Full-stack web applications
-- Open-source projects with a focus on developer tools
-- AI-enabled productivity or automation tools
-
----
 
 ### 📫 How to Reach Me
-- 📧 Email: glenn.delacruz.dev@gmail.com *(or your preferred email)*
-- 🌐 LinkedIn: [linkedin.com/in/itsmeGl3nn](https://www.linkedin.com/in/itsmeGl3nn)
+- 📧 Email: gtolentino@yondu.com *(or your preferred email)*
+- 🌐 LinkedIn: [linkedin.com/in/glenn-tolentino](https://www.linkedin.com/in/glenn-tolentino/)
 - 💼 Portfolio/Website: *(add if available)*
-
----
-
-### 😄 Pronouns
-He/Him
 
 ---
 
