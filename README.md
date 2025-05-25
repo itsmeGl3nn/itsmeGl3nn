@@ -41,8 +41,8 @@ I once deployed a scalable app across **three cloud providers (GCP, AWS, Alibaba
 **Languages:**  
 JavaScript, PHP, Python, SQL (PostgreSQL, MySQL)
 
-**Frameworks & Libraries:**  
-Node.js, React.js, Vue.js, Laravel, Flask, Vitest
+**Frameworks & Libraries:**
+Node.js, React.js, Vue.js, React Native, Laravel, Flask, Vitest
 
 **UI Libraries:**  
 Vuetify, Ant Design, Material UI
@@ -51,7 +51,7 @@ Vuetify, Ant Design, Material UI
 Pinia
 
 **Developer Tools & DevOps:**  
-Git, Docker, JIRA, Postman, Nginx, Apache, RESTful APIs, AWS
+Git, Docker, JIRA, Postman, Nginx, Apache, RESTful APIs, AWS, GCP, Hostinger VPS, Alibaba Cloud
 
 **Testing:**  
 Vitest
