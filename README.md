@@ -39,7 +39,7 @@ I once deployed a scalable app across **three cloud providers (GCP, AWS, Alibaba
 ### 🧰 Tech Stack
 
 **Languages:**  
-JavaScript, PHP, Python, SQL (PostgreSQL, MySQL)
+JavaScript, PHP, Python
 
 **Frameworks & Libraries:**
 Node.js, React.js, Vue.js, React Native, Laravel, Flask, Vitest
@@ -57,7 +57,7 @@ Git, Docker, JIRA, Postman, Nginx, Apache, RESTful APIs, AWS, GCP, Hostinger VPS
 Vitest
 
 **Databases:**  
-PostgreSQL, MySQL, Couchbase
+PostgreSQL, MySQL, Couchbase, MongoDB
 
 ---
 
