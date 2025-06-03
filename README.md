@@ -1,6 +1,6 @@
-# 👋 Hi, 
+# 👋 Hi, I'm Glenn, 
 
-I'm Glenn, a full-stack developer with 6 years of experience in software development and a background in the distribution industry. I’m passionate about using technology to solve real-world problems and create smart, efficient solutions.
+a full-stack developer with 6 years of experience in software development and a background in the distribution industry. I’m passionate about using technology to solve real-world problems and create smart, efficient solutions.
 
 I’ve led and contributed to various successful projects, consistently delivering high-quality results on time. With strong problem-solving, multitasking, and leadership skills, I help guide teams and ensure projects run smoothly from planning to delivery.
 
