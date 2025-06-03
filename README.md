@@ -1,6 +1,4 @@
-# 👋 Hi, I’m @itsmeGl3nn
-
-### 💡 About Me
+# 👋 Hi, 
 
 I'm Glenn, a full-stack developer with 6 years of experience in software development and a background in the distribution industry. I’m passionate about using technology to solve real-world problems and create smart, efficient solutions.
 
