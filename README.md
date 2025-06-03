@@ -1,15 +1,18 @@
 # 👋 Hi, I’m @itsmeGl3nn
 
----
-
 ### 💡 About Me
 
-Detail-oriented and versatile **Software Engineer** with a strong foundation in **full-stack web development** and **cloud deployment**. I have a proven track record of contributing to and leading successful projects in dynamic, fast-paced environments. With years of experience in the **distribution industry**, I bring strong **multitasking**, **problem-solving**, and **leadership skills** to every team I join.
+I'm Glenn, a full-stack developer with 6 years of experience in software development and a background in the distribution industry. I’m passionate about using technology to solve real-world problems and create smart, efficient solutions.
+
+I’ve led and contributed to various successful projects, consistently delivering high-quality results on time. With strong problem-solving, multitasking, and leadership skills, I help guide teams and ensure projects run smoothly from planning to delivery.
+
+I enjoy learning new technologies, staying current with industry trends, and taking on new challenges. I’m confident in my ability to bring value to any team or project through clear communication, solid technical skills, and a commitment to excellence.
+
+
 
 ---
 
 ### 👀 I’m Interested In
-- AI/ML and data engineering
 - Mobile development (Flutter, React Native)
 - Scalable cloud-native architecture
 - Open source collaboration
@@ -17,8 +20,8 @@ Detail-oriented and versatile **Software Engineer** with a strong foundation in 
 ---
 
 ### 🌱 I’m Currently Learning
-- Machine Learning & Data Pipelines
 - Mobile development with Flutter/React Native
+- Backend Development (Go lang)
 - Serverless applications on AWS and GCP
 
 ---
@@ -42,13 +45,13 @@ I once deployed a scalable app across **three cloud providers (GCP, AWS, Alibaba
 JavaScript, PHP, Python
 
 **Frameworks & Libraries:**
-Node.js, React.js, Vue.js, React Native, Laravel, Flask, Vitest
+Node.js, React.js, Vue.js, React Native, Laravel, Flask
 
 **UI Libraries:**  
-Vuetify, Ant Design, Material UI
+Vuetify, Ant Design, Material UI, Bootstrap, tailwind 
 
 **State Management:**  
-Pinia
+Pinia, 
 
 **Developer Tools & DevOps:**  
 Git, Docker, JIRA, Postman, Nginx, Apache, RESTful APIs, AWS, GCP, Hostinger VPS, Alibaba Cloud
