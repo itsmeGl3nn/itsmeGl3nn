@@ -19,7 +19,7 @@ I enjoy learning new technologies, staying current with industry trends, and tak
 
 ### 🌱 I’m Currently Learning
 - Mobile development with Flutter/React Native
-- Backend Development (Go lang)
+- Backend Development (Java and Node js )
 - Serverless applications on AWS and GCP
 
 ---
@@ -43,7 +43,7 @@ I once deployed a scalable app across **three cloud providers (GCP, AWS, Alibaba
 JavaScript, PHP, Python
 
 **Frameworks & Libraries:**
-Node.js, React.js, Vue.js, React Native, Laravel, Flask
+React.js, Vue.js, React Native, Laravel, Flask
 
 **UI Libraries:**  
 Vuetify, Ant Design, Material UI, Bootstrap, tailwind 
