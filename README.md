@@ -1,10 +1,12 @@
 # 👋 Hi, I'm Glenn, 
 
-a full-stack developer with 6 years of experience in software development and a background in the distribution industry. I’m passionate about using technology to solve real-world problems and create smart, efficient solutions.
+Software Engineer | 6+ Years Experience
 
-I’ve led and contributed to various successful projects, consistently delivering high-quality results on time. With strong problem-solving, multitasking, and leadership skills, I help guide teams and ensure projects run smoothly from planning to delivery.
+I specialize in JavaScript, React, TypeScript, and Python, building scalable web applications with React.js, Next.js, and Vue.js. I develop cross-platform mobile apps using React Native and robust back-end services with Node.js and Python.
 
-I enjoy learning new technologies, staying current with industry trends, and taking on new challenges. I’m confident in my ability to bring value to any team or project through clear communication, solid technical skills, and a commitment to excellence.
+Experienced with cloud deployments on GCP and AWS, containerization with Docker, NGINX configuration, and CI/CD automation. Proficient in Git workflows and AI-assisted development to maximize productivity.
+
+Committed to clean architecture, attention to detail, and delivering exceptional user experiences.
 
 
 
