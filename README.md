@@ -2,11 +2,15 @@
 
 Software Engineer | 6+ Years Experience
 
-I specialize in JavaScript, React, TypeScript, and Python, building scalable web applications with React.js, Next.js, and Vue.js. I develop cross-platform mobile apps using React Native and robust back-end services with Node.js and Python.
+Software engineer with 7+ years of experience building scalable, high-performance web and mobile applications using JavaScript, TypeScript, React.js, Vue.js, Next.js, React Native, Node.js, and Python.
+Experienced in designing and developing RESTful APIs, microservices, and cloud-native applications with a strong focus on AWS serverless architecture and cloud services. Hands-on experience with AWS Lambda for event-driven systems, along with AWS services such as EC2, S3, API Gateway, and IAM. Skilled in deploying and managing production applications using NGINX and Apache server configurations.
 
-Experienced with cloud deployments on GCP and AWS, containerization with Docker, NGINX configuration, and CI/CD automation. Proficient in Git workflows and AI-assisted development to maximize productivity.
+Strong background in Docker containerization and implementing CI/CD pipelines for automated, scalable, and reliable deployments. Familiar with Google Cloud Platform (GCP) for additional cloud infrastructure and services.
 
-Committed to clean architecture, attention to detail, and delivering exceptional user experiences.
+Skilled in system design, performance optimization, SEO, and accessibility, with a focus on building fast, secure, and maintainable applications. Proficient in Git workflows, Agile/Scrum methodologies, and cross-functional team collaboration.
+
+Passionate about clean architecture, scalable distributed systems, and leveraging AI-assisted development tools to improve engineering productivity and software quality.
+
 
 
 
