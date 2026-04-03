@@ -3,6 +3,7 @@
 Software Engineer | 6+ Years Experience
 
 Software engineer with 7+ years of experience building scalable, high-performance web and mobile applications using JavaScript, TypeScript, React.js, Vue.js, Next.js, React Native, Node.js, and Python.
+
 Experienced in designing and developing RESTful APIs, microservices, and cloud-native applications with a strong focus on AWS serverless architecture and cloud services. Hands-on experience with AWS Lambda for event-driven systems, along with AWS services such as EC2, S3, API Gateway, and IAM. Skilled in deploying and managing production applications using NGINX and Apache server configurations.
 
 Strong background in Docker containerization and implementing CI/CD pipelines for automated, scalable, and reliable deployments. Familiar with Google Cloud Platform (GCP) for additional cloud infrastructure and services.
@@ -25,7 +26,7 @@ Passionate about clean architecture, scalable distributed systems, and leveragin
 
 ### 🌱 I’m Currently Learning
 - Mobile development with Flutter/React Native
-- Backend Development (Java and Node js )
+- Backend Development (Java and Go lang )
 - Serverless applications on AWS and GCP
 
 ---
@@ -46,40 +47,38 @@ I once deployed a scalable app across **three cloud providers (GCP, AWS, Alibaba
 ### 🧰 Tech Stack
 
 **Languages:**  
-JavaScript, PHP, Python
+JavaScript, TypeScript, PHP, Python
 
-**Frameworks & Libraries:**
-React.js, Vue.js, React Native, Laravel, Flask
-
-**UI Libraries:**  
-Vuetify, Ant Design, Material UI, Bootstrap, tailwind 
+**Frameworks & Libraries:**  
+Node.js, React.js, Vue.js, Laravel, Flask, Next.js, React Native, Vuetify, Ant Design, Material UI
 
 **State Management:**  
-Pinia, 
+Redux, Zustand, Pinia
 
-**Developer Tools & DevOps:**  
-Git, Docker, JIRA, Postman, Nginx, Apache, RESTful APIs, AWS, GCP, Hostinger VPS, Alibaba Cloud
+**Databases:**  
+PostgreSQL, MySQL, Couchbase
 
 **Testing:**  
 Vitest
 
-**Databases:**  
-PostgreSQL, MySQL, Couchbase, MongoDB
+**Developer Tools & DevOps:**  
+Git, Docker, JIRA, Postman, RESTful APIs, NGINX, Apache, CI/CD pipelines
 
 ---
 
 ### ☁️ Deployment & Cloud Platforms
 
+**Amazon Web Services (AWS):**
+- EC2, S3, IAM
+- AWS Lambda (serverless, event-driven architectures)
+- NGINX + PM2 process management for Node.js deployments
+
 **Google Cloud Platform (GCP):**
-- Deployed containerized and traditional apps with Cloud Run, App Engine, Compute Engine
-- Configured Cloud Storage, IAM, and Firestore
+- Cloud Run, App Engine, Compute Engine, Cloud Storage, IAM, Firestore
 
-**Hostinger VPS:**
-- Deployed PHP and Node.js apps using Docker, Apache, and Nginx
-- Managed domains, SSL certificates, and SSH configuration
+**Other Cloud / Hosting:**
+- Hostinger VPS: Dockerized deployments of PHP & Node.js applications with Apache/NGINX, SSL, and SSH server management
+- Alibaba Cloud (ECS): Docker-based application hosting with Apache/NGINX and HTTPS configuration
 
-**Alibaba Cloud:**
-- Managed deployments via ECS using Docker and secure HTTPS setups
-
-**Couchbase:**
-- Set up and maintained high-performance Couchbase Server instances with SDK integration
+**Database Operations:**
+- Couchbase: Cluster setup, bucket management, SDK integration for high-performance NoSQL systems
